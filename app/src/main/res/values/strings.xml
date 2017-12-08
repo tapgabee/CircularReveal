@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RevealAnimation</string>
+    <string name="empty_text">You don\'t have any places</string>
+    <string name="empty_subtext">Tap the add places + button</string>
+    <string name="map_des">Map</string>
+    <string name="auto_detect_text">Auto Detect</string>
+    <string name="search_text">Search</string>
+</resources>
